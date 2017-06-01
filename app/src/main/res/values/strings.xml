@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleSearchApp</string>
+    <string name="text_view">Enter your keyword in Text Box for Google search</string>
+    <string name="text_box">Search here..</string>
+</resources>
